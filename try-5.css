@@ -1,0 +1,13 @@
+table{
+    width: 700;
+}
+tr:hover{
+    background-color: rgb(106, 106, 253);
+    color: antiquewhite;
+}
+td img{
+    border-radius: 2em;
+}
+td:hover img{
+    box-shadow: 5px 5px 5px 3px green;
+}
